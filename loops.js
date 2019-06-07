@@ -23,4 +23,4 @@ function whileLoop(n) {
   return 'done';
 }
 
-function doWhileLoop(integer)
+function doWhileLoop(n)
